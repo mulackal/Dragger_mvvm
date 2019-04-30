@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM_VIP</string>
+    <string name="api_error">No data Found</string>
+</resources>
